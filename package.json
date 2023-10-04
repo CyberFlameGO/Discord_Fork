@@ -8,7 +8,7 @@
     "@babel/preset-env": "^7.0.0-beta.55",
     "babel-loader": "^8.0.0-beta.4",
     "babel-polyfill": "^6.26.0",
-    "css-loader": "^1.0.0",
+    "css-loader": "^6.8.1",
     "github-api": "^3.0.0",
     "mocha": "^5.2.0",
     "monaco-editor": "^0.13.1",
