@@ -4,8 +4,8 @@
   "description": "The Discord Bot List with GitHub integration",
   "main": "webpack/index.js",
   "dependencies": {
-    "@babel/core": "^7.0.0-beta.55",
-    "@babel/preset-env": "^7.0.0-beta.55",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
     "babel-loader": "^8.0.0-beta.4",
     "babel-polyfill": "^6.26.0",
     "css-loader": "^1.0.0",
